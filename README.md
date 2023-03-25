@@ -1,2 +1,5 @@
 # VermilionSyntax
-useless repo for TextMate grammar
+Repository for Vermilion syntax grammars:
+
+* Vim 
+* TextMate.
